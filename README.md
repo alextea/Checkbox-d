@@ -1,3 +1,9 @@
+# Don't use
+
+This is really old. It was never tested properly, and probably isn't very accessible.
+
+If you want to replace native form widgets I recommend you [take a look at the examples](https://govuk-elements.herokuapp.com/form-elements/#form-radio-buttons) in [alphagov/govuk_elements](https://github.com/alphagov/govuk_elements)
+
 # Checkbox'd #
 
 __Checkbox'd__ is a simple, unobtrusive jQuery based replacement script for checkbox and radio inputs.
